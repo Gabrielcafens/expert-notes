@@ -70,7 +70,7 @@ This project is licensed under the MIT License.
 
 - This project was developed during the Rocketseat NLW Expert course.
 - The app is under constant development, with new features planned for the future.
-- We hope you enjoy using Expert Notes!
+- I hope you enjoy using Expert Notes!
 
 ## 8-Arm Coffee Machine
 
