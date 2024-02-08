@@ -1,7 +1,3 @@
-Certainly! Here's an improved version of the README for the "Expert Notes - NLW" project:
-
----
-
 # Expert Notes - NLW
 
 ## Description
