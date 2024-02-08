@@ -39,7 +39,8 @@ This project is a practical implementation of the "NLW Expert" course by Rockets
 
 ## Screenshots
 
-![App in Action](link_para_a_imagem)
+![image](https://github.com/Gabrielcafens/expert-notes/assets/95833512/d8c79442-340e-4973-b042-3928493a0cc5)
+
 
 ## Contributing
 
