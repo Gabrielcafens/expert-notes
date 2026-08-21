@@ -15,7 +15,8 @@ export function App() {
     const notesOnStorage = localStorage.getItem("notes");
 
     if (notesOnStorage) {
-      return JSON.parse(notesOnStorage);
+      const parsedNotes: Note[] = JSON.parse(notesOnStorage);
+      return parsedNotes.map((note) => ({ ...note, date: new Date(note.date) }));
     }
 
     return [];
